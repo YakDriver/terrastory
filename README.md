@@ -9,3 +9,4 @@
 1. download multiple versions of terraform
 1. perform assertions: compare state or return value against expected
 1. process env vars
+1. setup initial go project
