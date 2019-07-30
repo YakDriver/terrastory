@@ -1,5 +1,6 @@
 # terrastory
 
+1. ~~find tests~~
 1. run terraform
 1. capture output
 1. capture state
